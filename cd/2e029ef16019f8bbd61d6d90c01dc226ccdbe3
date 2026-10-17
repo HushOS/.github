@@ -1,0 +1,18 @@
+profile/README.md
+  h_f7ba60a6997566 1-28
+profile/assets/banner-dark.svg
+  h_f7ba60a6997566 1
+profile/assets/banner-light.svg
+  h_f7ba60a6997566 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "cd2e029ef16019f8bbd61d6d90c01dc226ccdbe3",
+  "prompts": {},
+  "humans": {
+    "h_f7ba60a6997566": {
+      "author": "TheBinaryGuy <hello@thebinary.dev>"
+    }
+  }
+}

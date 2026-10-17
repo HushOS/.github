@@ -9,13 +9,6 @@
 
 HushOS is open-source storage where everything is locked on your device before it leaves. We can’t open your files, and neither can anyone else. Use it at [hushos.com](https://hushos.com), or run it on a server you control, for free.
 
-| | |
-| --- | --- |
-| **Drive** | **Here now.** Upload, organise, preview and share files, the way you already know how. |
-| **Desktop apps** | Coming. |
-| **Messages** | Coming. |
-| **Notes and documents** | Coming. |
-
 #### Start here
 
 - **[hushos.com](https://hushos.com)**: start free, no card needed.

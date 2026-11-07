@@ -7,11 +7,12 @@
 
 ### Make the private choice the easy choice.
 
-HushOS is open-source storage where everything is locked on your device before it leaves. We can’t open your files, and neither can anyone else. Use it at [hushos.com](https://hushos.com), or run it on a server you control, for free.
+HushOS is open-source storage where everything is locked on your device before it leaves, on the web, iPhone and Android. We can’t open your files, and neither can anyone else. Use it at [hushos.com](https://hushos.com), or run it on a server you control, for free.
 
 #### Start here
 
 - **[hushos.com](https://hushos.com)**: start free, no card needed.
+- **Phone apps**: [iPhone on the App Store](https://apps.apple.com/app/hushos-encrypted-cloud-drive/id6831238356) and [Android on Google Play](https://play.google.com/store/apps/details?id=com.hushos.app), or the IPA and APK on [Releases](https://github.com/HushOS/HushOS/releases).
 - **[How it protects your files](https://hushos.com/security)**: each step in plain words, with the exact terms underneath so you can check every claim against the code.
 - **[HushOS/HushOS](https://github.com/HushOS/HushOS)**: the code, under the AGPL-3.0, and [how to host it yourself](https://github.com/HushOS/HushOS/blob/main/docs/self-hosting.md).
 - **[Notes from the build](https://hushos.com/blog)**: what is done, and what is being built next.
